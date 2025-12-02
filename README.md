@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and continuous learning. Here, you'll find my projects, experiments, and contributions to various fields of programming.
 
 ## 🔹 About Me
-- 💻 Interested in C programming, data structures, and software development.
+- 💻 Interested in C++ programming, data structures, and software development.
 - 🌱 Currently learning and exploring new technologies.
 - 🎯 Passionate about improving coding skills and building useful applications.
 
